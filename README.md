@@ -9,5 +9,7 @@
 (the below will be answered in my resubmission)
 
 - How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+
+Install pytest with virtual environment. Command is `pip install pytest`.
+
+Run `pytest` while in root directory of repo.
